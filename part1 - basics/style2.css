@@ -1,0 +1,18 @@
+body
+{
+    background-color: black;
+    color: lime;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.introducao
+{
+    color: lawngreen;
+    font-style: italic;
+}
+
+.conteudo
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
